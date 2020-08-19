@@ -1,6 +1,6 @@
 /**
  * 本を表すクラス
- * ConcreteAggregateに該当するBookShelfクラスの集約関係にある
+ * ConcreteAggregate（具体的な集合体）に該当するBookShelfクラスの集約関係にある
  */
 public class Book {
     private String name;
